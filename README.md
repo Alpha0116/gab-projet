@@ -32,7 +32,7 @@ git clone https://github.com/Alpha0116/gab-projet.git
 3.Importez la base de données (assurez-vous d'avoir une base de données MySQL prête) :
 CREATE DATABASE gab_db;
 
-4.Modifiez les paramètres de connexion à la base de données dans le fichier config.php.
+4.Modifiez les paramètres de connexion à la base de données dans le fichier includes/db.php.
 
 5.Lancez le serveur local (Apache et MySQL) via XAMPP ou WAMP.
 
