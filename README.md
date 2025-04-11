@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet est une application de gestion de GAB (Guichet Automatique Bancaire) avec un backend PHP et une interface utilisateur en HTML/CSS et Bootstrap. Il permet aux utilisateurs de se connecter, effectuer des transactions, consulter leur solde, et plus encore.
+Ce projet est un système de gestion de GAB (Guichet Automatique Bancaire) simulé avec un backend PHP et une interface utilisateur en HTML/CSS et Bootstrap. Il permet aux utilisateurs de se connecter, effectuer des transactions, consulter leur solde, et plus encore.
 
 ## Fonctionnalités
 
