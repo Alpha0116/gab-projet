@@ -17,7 +17,6 @@ Avant de pouvoir exécuter ce projet, vous devez avoir installé :
 
 - [PHP](https://www.php.net/) (version 7 ou supérieure)
 - [MySQL](https://www.mysql.com/)
-- [Composer](https://getcomposer.org/) (pour la gestion des dépendances PHP, si nécessaire)
 - [Un serveur local comme XAMPP ou WAMP](https://www.apachefriends.org/index.html)
 
 ## Installation
